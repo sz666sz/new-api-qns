@@ -21,7 +21,6 @@ tiktoken_cache
 .gomodcache/
 .cache
 docs/installation/zeabur.md
-web/bun.lock
 plans
 .claude
 .codex
