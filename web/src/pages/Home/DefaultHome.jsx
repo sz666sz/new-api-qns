@@ -30,7 +30,7 @@ const getHashPage = () => {
   return PAGES[hash] ? hash : 'intro';
 };
 
-const OFFICIAL_URL = 'https://rabbitcode.cc';
+const OFFICIAL_URL = 'https://qnsapi.com';
 
 const getDisplayAddress = () => {
   const addr = getServerAddress();
